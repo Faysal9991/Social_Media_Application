@@ -1,0 +1,1 @@
+enum MessageStatus { notSent, notView, viewed }
